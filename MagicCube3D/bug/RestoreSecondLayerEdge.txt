@@ -1,0 +1,14 @@
+FRONT中:
+        RED        RED        RED     YELLOW        RED       BLUE        RED     ORANGE      WHITE
+BACK中:
+     ORANGE     ORANGE     ORANGE      WHITE     ORANGE      WHITE       BLUE       BLUE     ORANGE
+LEFT中:
+      WHITE        RED        RED      WHITE      WHITE       BLUE      WHITE        RED      WHITE
+RIGHT中:
+     YELLOW       BLUE     YELLOW     YELLOW     YELLOW     YELLOW     YELLOW     ORANGE       BLUE
+UP中:
+     YELLOW     YELLOW       BLUE        RED       BLUE     ORANGE       BLUE      WHITE     ORANGE
+DOWN中:
+      GREEN      GREEN      GREEN      GREEN      GREEN      GREEN      GREEN      GREEN      GREEN
+
+

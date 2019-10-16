@@ -24,9 +24,18 @@
 *.lai
 *.la
 *.a
-*.lib
+#*.lib  #用到opengl库，不能忽略
 
 # Executables
 *.exe
 *.out
 *.app
+
+#忽略文件夹
+/.vs/*
+/ipch/*
+/MagicCube3D_Build/*
+
+#忽略文件
+*.sdf
+
