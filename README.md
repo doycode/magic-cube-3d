@@ -6,7 +6,7 @@
 
 ## 依赖库
 
-* [openGL](https://opengl.org/)
+* [OpenGL](https://opengl.org/)
 
 ## 运行环境
 
