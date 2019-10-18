@@ -1,4 +1,4 @@
-# 魔方3D
+# 魔方
 
 基于 [MagicCube3D](https://github.com/zhijie/MagicCube3D) 修改，运行界面如下：
 
@@ -8,6 +8,8 @@
 
 * [OpenGL](https://opengl.org/)
 
+OpenGL已集成到项目，无需再额外配置。
+
 ## 运行环境
 
 | 系统             | IDE    | Win32/Debug | Win32/Release |
@@ -16,7 +18,8 @@
 
 ## 运行说明
 
-由于相关库已集成到项目，所以直接打开项目根目录下的`.sln`文件即可运行，如有问题可随时联系：
+直接用VS2017打开项目根目录下的`.sln`文件即可运行，如果没安装`MFC`的话会提示安装，按提示操作即可。  
+**注**：其他VS版本未进行测试，如有问题可随时联系：
 
 * **Email**: [callmenone@elude.in](http://elude.in/)
 
