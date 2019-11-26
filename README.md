@@ -2,7 +2,7 @@
 
 基于 [MagicCube3D](https://github.com/zhijie/MagicCube3D) 修改，运行界面如下：
 
-![img](https://github.com/doycode/pics-for-md/blob/master/pics/develop/magic_cube.png?raw=true)
+![img](https://github.com/doycode/pics-for-md/blob/master/private/develop/magic_cube.png?raw=true)
 
 ## 依赖库
 
